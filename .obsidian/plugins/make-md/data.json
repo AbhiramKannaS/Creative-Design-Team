@@ -38,8 +38,8 @@
   "expandedSpaces": [
     "/",
     null,
-    null,
-    "Creative-Design-Team"
+    "Creative-Design-Team",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -70,7 +70,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691734331988,
+  "spacesAutoBackupLast": 1691764317118,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

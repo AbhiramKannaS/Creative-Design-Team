@@ -11,8 +11,12 @@
             "id": "703bccf538430a87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hi.md",
+                "file": "hi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hi.md",
+                "file": "hi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hi.md"
+                "file": "hi.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "601c3e06981001e5",
+  "active": "eb8e8dad3f0610d4",
   "lastOpenFiles": [
     "Hi.md",
     "Creative-Design-Team",
