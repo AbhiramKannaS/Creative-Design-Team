@@ -33,7 +33,7 @@ Date: August 21, 10:00 AM - 6:00 PM
 - Networking opportunities for attendees to connect with speakers, entrepreneurs, and fellow participants.
  
 
-## Additional Ideas
+## Additional Ideas?
 
 **Entrepreneurial Workshops**: Host workshops focused on essential entrepreneurial skills, such as ideation, business planning, marketing, and funding strategies.
 
