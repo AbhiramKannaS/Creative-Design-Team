@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee564b7c082fb807",
+        "id": "b2a4df299858ac4c",
         "type": "tabs",
         "children": [
           {
-            "id": "98fe08102c2b3096",
+            "id": "916414a653e3d791",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Creative-Design-Team//"
+              }
             }
           }
         ]
@@ -130,12 +132,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98fe08102c2b3096",
+  "active": "39479208bc1ebc69",
   "lastOpenFiles": [
     "Creative-Design-Team",
     "Context/spacesLastSync.log",
