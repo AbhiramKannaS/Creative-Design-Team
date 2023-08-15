@@ -34,7 +34,11 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "Creative-Design-Team": [
+      "Files"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null,
@@ -70,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1692098760628,
+  "spacesAutoBackupLast": 1692100143145,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
