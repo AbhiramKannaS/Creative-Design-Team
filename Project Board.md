@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [ ] [[E-Utsav Post]]<br><br>Due: @{15-08-2023}<br>Time: @@{23:45}
 - [ ] Wall Street Cricket (Startup Quiz) Post
 - [ ] Startup Showcase Post<br><br>Due: @{15-08-2023}<br>Time: @@{23:45}
-- [ ] Trium Tales - Chai Chats (Details Pending)
+- [ ] Triumph Tales - Chai Chats (Details Pending)
 
 
 ## Assigned
