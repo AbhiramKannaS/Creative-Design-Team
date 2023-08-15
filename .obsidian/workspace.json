@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2abad721f80b97e5",
+        "id": "7d19048cd3b240b5",
         "type": "tabs",
         "children": [
           {
-            "id": "15fefd9cda27bcfc",
+            "id": "cd19bfba3c128b55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Agendas/Agenda August 21, 2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Project Board.md"
               }
             }
           }
@@ -73,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agendas/Agenda August 21, 2023.md",
+                "file": "Project Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agendas/Agenda August 21, 2023.md",
+                "file": "Project Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agendas/Agenda August 21, 2023.md"
+                "file": "Project Board.md"
               }
             }
           },
@@ -162,12 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "601c3e06981001e5",
+  "active": "cd19bfba3c128b55",
   "lastOpenFiles": [
+    "Agendas/Agenda August 21, 2023.md",
     "Project Board.md",
     "Agendas",
     "Untitled.md",
-    "Agendas/Agenda August 21, 2023.md",
     "Test Agenda.md",
     "Context/spacesLastSync.log",
     "Context",
