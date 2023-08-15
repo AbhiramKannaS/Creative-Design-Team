@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Startup Showcase Post.md",
+                "file": "Agendas/Agenda August 21, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Startup Showcase Post.md",
+                "file": "Agendas/Agenda August 21, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Startup Showcase Post.md",
+                "file": "Agendas/Agenda August 21, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Startup Showcase Post.md"
+                "file": "Agendas/Agenda August 21, 2023.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ee30c8affdcc053",
+  "active": "d8c5620eaf857cc8",
   "lastOpenFiles": [
-    "Project Board.md",
     "Entrepreneurs Day Post.md",
-    "E-Utsav Post.md",
+    "Project Board.md",
+    "Team Members/Manoradh.md",
+    "E-Utsav/E-UTSAV.pdf",
+    "E-Utsav",
+    "E-Utsav/E-Utsav Post.md",
+    "Startup Showcase Post.md",
     "Agendas/Agendas.md",
     "context.mdb",
     "Agendas/Agenda August 21, 2023.md",
-    "Startup Showcase Post.md",
-    "Untitled",
-    "Files/E-UTSAV.pdf",
     "Agendas",
     "Untitled.md",
     "Test Agenda.md",
