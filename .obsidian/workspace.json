@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda August 21, 2023.md",
+                "file": "Agendas/Agenda August 21, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agenda August 21, 2023.md",
+                "file": "Agendas/Agenda August 21, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agenda August 21, 2023.md",
+                "file": "Agendas/Agenda August 21, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda August 21, 2023.md"
+                "file": "Agendas/Agenda August 21, 2023.md"
               }
             }
           },
@@ -162,16 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15fefd9cda27bcfc",
+  "active": "601c3e06981001e5",
   "lastOpenFiles": [
-    "Creative-Design-Team.md",
-    "Agenda August 21, 2023.md",
+    "Project Board.md",
+    "Agendas",
+    "Untitled.md",
+    "Agendas/Agenda August 21, 2023.md",
     "Test Agenda.md",
-    "hi.md",
-    "Untitled Kanban.md",
-    "Hi.md",
-    "Creative-Design-Team",
     "Context/spacesLastSync.log",
-    "Context"
+    "Context",
+    "Creative-Design-Team.md",
+    "hi.md",
+    "Hi.md",
+    "Creative-Design-Team"
   ]
 }
