@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d19048cd3b240b5",
+        "id": "e174dc5961a71e59",
         "type": "tabs",
         "children": [
           {
-            "id": "d8c5620eaf857cc8",
+            "id": "5137969c98273d5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Agendas/Agenda August 21, 2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Project Board.md"
               }
             }
           }
@@ -73,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agendas/Agenda August 21, 2023.md",
+                "file": "Project Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agendas/Agenda August 21, 2023.md",
+                "file": "Project Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agendas/Agenda August 21, 2023.md"
+                "file": "Project Board.md"
               }
             }
           },
@@ -162,18 +161,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8c5620eaf857cc8",
+  "active": "5137969c98273d5a",
   "lastOpenFiles": [
-    "Entrepreneurs Day Post.md",
+    "Agendas/Agendas.md",
+    "Coordinators Collaborative.md",
     "Project Board.md",
-    "Team Members/Manoradh.md",
     "E-Utsav/E-UTSAV.pdf",
-    "E-Utsav",
     "E-Utsav/E-Utsav Post.md",
     "Startup Showcase Post.md",
-    "Agendas/Agendas.md",
-    "context.mdb",
     "Agendas/Agenda August 21, 2023.md",
+    "Entrepreneurs Day Post.md",
+    "Team Members/Manoradh.md",
+    "E-Utsav",
+    "context.mdb",
     "Agendas",
     "Untitled.md",
     "Test Agenda.md",
